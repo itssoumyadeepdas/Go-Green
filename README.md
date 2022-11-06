@@ -12,7 +12,7 @@ You can access the running version of the app <a href="https://share.streamlit.i
   4. Save the changes in all .py files
   5. Open command Prompt and enter
   
-      ```streamlit run app,py```
+      ```streamlit run app.py```
       
 <h2>User Guide:</h2>
 1. Use the sidebar to change the current page
